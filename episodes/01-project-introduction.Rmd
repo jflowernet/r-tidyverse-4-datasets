@@ -33,6 +33,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Use the `here` package to access project files
 ::::::::::::::::::::::::::::::::::::: 
 
+# UCSB led workshop for NORMA
 
 ## Motivation
 
